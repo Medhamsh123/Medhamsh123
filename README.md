@@ -40,7 +40,7 @@ Visual insights from real-world datasets using Excel & Python.
 
 ### 🎬 Content & Edits  
 Cinematic gaming edits with smooth transitions and motion effects.  
-🔗 *Add your YouTube link here later*
+🔗 https://www.youtube.com/@Mikeyv8-s5w
 
 ---
 
@@ -62,11 +62,11 @@ Cinematic gaming edits with smooth transitions and motion effects.
   <a href="https://linkedin.com/in/medhamsh-yarlagadda">
     <img src="https://img.shields.io/badge/LinkedIn-Medhamsh-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:yourname@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
+  <a href="mailto:yarlagaddamedhamsh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yarlagaddamedhamsh%40gmail.com-red?style=for-the-badge"/>
   </a>
-  <a href="https://www.youtube.com/">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube"/>
+  <a href="https://www.youtube.com/@Mikeyv8-s5w">
+    <img src="https://img.shields.io/badge/YouTube-Mikeyv8-red?style=for-the-badge&logo=youtube"/>
   </a>
 </p>
 
